@@ -1,3 +1,3 @@
 # tronscan
-Tron Scan Python <\br>
+Tron Scan Python
 Programmed by MEng. Morteza Hajitabar Firuzjaei
